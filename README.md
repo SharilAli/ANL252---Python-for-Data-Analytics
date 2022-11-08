@@ -6,7 +6,7 @@ The solution files will be in jupyter notebook extension as the markdown cells a
 Will upload the remaining assignments in December 2022!
 
 ### Folders with the .ipynb files and question paper
-- [x] Tutor Marked Assignment (TMA) 
+- [x] [Tutor Marked Assignment (TMA)](https://github.com/SharilAli/ANL252---Python-for-Data-Analytics/tree/main/TMA) 
 - [] Group Based Assignment (GBA) 
 - [] End of Course Assignment (ECA) 
 
