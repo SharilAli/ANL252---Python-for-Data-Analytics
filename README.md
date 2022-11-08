@@ -3,11 +3,12 @@ These are possible solutions for the given assignments by Singapore University o
 
 ## General info
 The solution files will be in jupyter notebook extension as the markdown cells allows for an easier reference to the questions and equations.
+Will upload the remaining assignments in December 2022!
 
 ### Folders with the .ipynb files and question paper
-* Tutor Marked Assignment (TMA)
-* Group Based Assignment (GBA)
-* End of Course Assignment (ECA)
+* Tutor Marked Assignment (TMA) [X]
+* Group Based Assignment (GBA) [ ]
+* End of Course Assignment (ECA) [ ]
 
 
 ## Technologies
