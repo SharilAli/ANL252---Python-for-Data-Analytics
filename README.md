@@ -6,9 +6,9 @@ The solution files will be in jupyter notebook extension as the markdown cells a
 Will upload the remaining assignments in December 2022!
 
 ### Folders with the .ipynb files and question paper
-* Tutor Marked Assignment (TMA) - [X]
-* Group Based Assignment (GBA) - [ ]
-* End of Course Assignment (ECA) - [ ]
+- [x] Tutor Marked Assignment (TMA) 
+- [] Group Based Assignment (GBA) 
+- [] End of Course Assignment (ECA) 
 
 
 ## Technologies
