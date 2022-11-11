@@ -14,5 +14,5 @@ Will upload the remaining assignments in December 2022!
 ## Technologies
 Project is created with:
 * Python 3.9.7
-* NumPy 1.23
+* NumPy 1.23.4
 * pandas 1.5.1
