@@ -1,5 +1,5 @@
 # ANL252: Python-for-Data-Analytics
-These are possible solutions for the given assignments by ANL252 - Singapore University of Social Sciences for July Semester 2021.
+These are possible solutions for the given assignments on Python for Data Analytics (ANL252) - Singapore University of Social Sciences for July Semester 2021.
 
 ## General info
 The solution files will be in jupyter notebook extension as the markdown cells allows for an easier reference to the questions and equations.
