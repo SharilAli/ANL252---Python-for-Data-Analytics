@@ -5,7 +5,7 @@ These are possible solutions for the given assignments by ANL252 - Singapore Uni
 The solution files will be in jupyter notebook extension as the markdown cells allows for an easier reference to the questions and equations.
 Will upload the remaining assignments in December 2022!
 
-### Folders with the .ipynb files and question paper
+### Directory
 - [x] [Tutor Marked Assignment (TMA)](https://github.com/SharilAli/ANL252---Python-for-Data-Analytics/tree/main/TMA) 
 - [x] [Group Based Assignment (GBA)](https://github.com/SharilAli/ANL252---Python-for-Data-Analytics/tree/main/GBA)
 - [ ] End of Course Assignment (ECA) 
