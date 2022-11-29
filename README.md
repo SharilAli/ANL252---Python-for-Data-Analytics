@@ -7,7 +7,7 @@ Will upload the remaining assignments in December 2022!
 
 ### Folders with the .ipynb files and question paper
 - [x] [Tutor Marked Assignment (TMA)](https://github.com/SharilAli/ANL252---Python-for-Data-Analytics/tree/main/TMA) 
-- [x] [Group Based Assignment (GBA)] (https://github.com/SharilAli/ANL252---Python-for-Data-Analytics/tree/main/GBA)
+- [x] [Group Based Assignment (GBA)](https://github.com/SharilAli/ANL252---Python-for-Data-Analytics/tree/main/GBA)
 - [ ] End of Course Assignment (ECA) 
 
 #### [Connect with me on LinkedIn](https://www.linkedin.com/in/sharil-ali-74121411a/) :smile:
