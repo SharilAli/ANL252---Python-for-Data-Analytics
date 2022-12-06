@@ -5,7 +5,6 @@ By no means these solutions are the model answers! :v:
 
 ## General info
 The solution files will be in jupyter notebook extension as the markdown cells allows for an easier reference to the questions and equations.
-Will upload the remaining assignments in December 2022! 
 
 ## Directory
 - [x] [Tutor Marked Assignment (TMA)](https://github.com/SharilAli/ANL252---Python-for-Data-Analytics/tree/main/TMA) 
